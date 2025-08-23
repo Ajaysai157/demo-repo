@@ -1,0 +1,230 @@
+18th Aug
+========
+
+-> Basic Python & Advanced Python
+
+    -> Full Stack 
+
+    -> Data Analytics / Data Science / Data Engineering
+
+    -> Cloud / DevOps
+
+-> Python
+
+    -> Programming Language
+
+    -> Programming Language 
+    
+        - To communicate with Machines
+        - Giving commands (instructions) to computer
+
+        -> English 
+
+        -> Computers can only understand Binary Language
+
+            -> Binary Language - 010101010101
+
+            -> 01010000 01111001 01110100 01101000 01101111 01101110
+
+                -> Python (Intermediate / Interpreter)
+
+            -> Python is high-level, programming Language    
+                
+
+        -> general-purpose programming Language (Python)
+
+            -> Desktop Applications
+            -> Web Applications (Django, Flask, FAST API etc)
+            -> Automation Scripts (Cloud / DevOps)
+            -> Functional Based 
+            -> etc
+
+        -> domain specific programming Language
+
+            -> SQL - Manage data bases using a language 
+            -> HTML, CSS,  
+
+    -> Programming Paradigms 
+
+        -> Python supports Multi Paradigm approach to solve problems
+
+            -> Imperative (How To Do)
+
+                -> Python with OOPS
+
+            -> Declarative (What To Do)
+
+                -> Functional Programming
+
+
+19th Aug
+========
+
+    -> Hardware 
+
+        -> i3 / i5 Processor
+        -> 8 GB RAM
+        -> 250 GB SSD / HDD
+    
+    -> Softwares
+
+        -> System Software
+
+            -> Win / Linux / Unix(MACOS)
+
+                -> Install Python 3.13.X (Python Interpreter)
+
+                    -> Making our System Capable of running Python Code
+                
+                -> Install IDE (Integrated Development Environment) (Visual Studio Code)
+
+                    -> For Writing Code
+
+                    -> We have support For
+
+                        -> Auto Code Completion
+
+                        -> Syntax Highlighting
+
+                        -> External Extensions Support
+
+                        -> Debugging, Build Related Tools 
+
+                -> Install Git (Version Control System - Code Tracking)
+
+                    -> Client Software 
+
+                    -> Track Source Code in your Workstation (Your Laptop)
+
+                    -> Tracked Code will be uploaded to GitHub
+
+        -> We need to setup GitHub Accounts 
+
+            -> Storing Source Code
+
+            -> Integrate GitHub Account with Git & IDE
+
+20th Aug
+========
+
+-> How To Setup 
+
+    -> Python
+    -> IDE - VS Code
+    -> Git (Git bash)
+    -> GitHub
+    -> Version Controlling
+    -> Repository 
+    -> Cloning 
+    -> Pushing
+
+21st Aug
+========
+
+-> Write Python Code 
+
+    -> Script Mode (100%)
+
+        -> Using code editor 
+
+    -> Command Line / Interactive Mode (Quick Checks) 
+
+        -> Directly executing code on python Interpreter using 
+            CLI (Command Line Interface)
+
+    -> Syntax - Rules and guidelines 
+
+    -> print(hello world) -- issue
+    -> print(9) -- No issue
+
+    -> 9 is literal number, it doesn't need to be defined before hand
+    -> hello world is a text, which needs to be represented in single
+    or double quotes
+
+        -> print(hello world) Wrong Syntax
+        -> print('hello world') Correct Syntax
+    
+    -> Like English has 26 alphabets, which is basis for forming 
+        words and sentences
+    
+    -> Python has same concept, which are called as Keywords
+
+        -> keywords + syntax = program / app
+
+    -> import is a keyword --> imports module --> module is a .py file
+
+22nd Aug
+========
+
+-> Identifiers 
+
+    -> Within python an Identifier is name used to identify following
+
+        -> variables
+        -> functions
+        -> classes
+        -> objects
+        -> methods
+        -> modules 
+        -> etc
+    
+    -> Rules for naming Identifiers
+
+        -> Can contain
+
+            -> letters (a-z, A-Z)
+            -> digits (0-9)
+            -> underscore (_) 
+        
+        -> Must Start With
+
+            -> A letter (a-z, A-Z)
+            -> underscore (_) 
+        
+        -> NOTE : Cannot start with digits 
+        -> NOTE : Cannot be keywords 
+        -> NOTE: Case Sensitive (Name, name, NAME) (A, a)
+        -> NOTE: Always name the Identifiers appropriately
+
+
+-> Why Python / Key Features Of Python
+
+    -> It's Easy (**)
+
+        -> Syntax
+        -> Execution
+        -> Simplicity of language(space)  
+
+    -> Fewer Lines Of Code (**)
+
+        -> Addition Program in Python it's 3 lines
+        -> Addition Program in Java it's 7 lines
+
+    -> Interpreted (Python) vs Compiled (Java) (**)
+
+        -> Performance -> Faster -> Compiled
+
+        -> Performance -> Slower -> Interpreted
+
+        -> Python Development Speed -> Faster 
+
+            -> Python is best prototype language
+
+        -> Java Development Speed -> Slower 
+
+    -> Dynamically Typed (Python) (**)
+
+        -> No need to explicitly define Data types
+
+        -> Static Typed (Java), where we need to explicitly
+            define the data types
+
+    -> Vast Library (**)
+
+    -> Scripting / Object Oriented (OOPS) / Functional (**)
+
+    -> Open Source (Free)
+
+    -> Robust 
+
+    -> Platform Independent
